@@ -1,0 +1,52 @@
+    [
+        {
+            "id": 1,
+            "title": "Proshop",
+            "category": "Web development",
+            "image": "../../assets/p1.png",
+            "link":"https://proshop-gpt7.onrender.com/"
+        },
+        {
+            "id": 2,
+            "title": "DevConnector",
+            "category": "Web development",
+            "image": "../../assets/p2.png",
+            "link":""
+        },
+        {
+            "id": 3,
+            "title": "ZEESH",
+            "category": "Web design",
+            "image": "../../assets/pro4.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Egypt-Population",
+            "category": "Web development",
+            "image": "../../assets/pro5.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Video-Call",
+            "category": "Web design",
+            "image": "../../assets/pro6.jpg"
+        },
+        {
+            "id": 6,
+            "title": "ShareFun",
+            "category": "Web design",
+            "image": "../../assets/project7.jpg"
+        },
+        {
+            "id": 7,
+            "title": "JobFinder",
+            "category": "Web design",
+            "image": "../../assets/2.png"
+        },
+        {
+            "id": 8,
+            "title": "Travel World",
+            "category": "Web design",
+            "image": "images/project-9.png"
+        }
+    ]
